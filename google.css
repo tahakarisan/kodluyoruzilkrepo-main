@@ -1,0 +1,58 @@
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  
+}
+.middle-image{
+    margin-top: -100px;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.mid-input{
+    margin-left: 25%;
+    margin-top: 20px;
+    width: 300px;
+    border-style: solid;
+    border-color: grey;
+    height: 20px;
+    border-radius: 12px;
+}
+.mid-search{
+    width: 35px;
+    height: 35px;
+    background-color: rgb(167, 160, 160);
+    cursor:pointer;
+}
+
+
+
+.articleGmail{
+    text-decoration: none;
+    color: black;
+    margin-left: 1100px;
+    margin-top: 20px;
+    padding-left: auto;
+    float:left;
+}
+.articleResimler{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-left: auto;
+    float:left;
+}
+.articleProfilFoto{
+    width: 60px;
+    height: 60px;
+    margin-left: 20px;
+    margin-top: 0px;
+    padding-left: auto;
+    float:left;
+    border-radius: 50%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(22, 61, 236);
+}
